@@ -1,0 +1,12 @@
+section{
+    max-width: 40vw;
+    margin: auto;
+    position: relative;
+    top: 100px;
+}
+
+
+label{
+    font-weight: 600;
+    font-size: large;
+}
